@@ -3,7 +3,7 @@
 [![GitHub Moddy2024](https://img.shields.io/github/followers/Moddy2024?label=follow&style=social)](https://github.com/Moddy2024)&nbsp;
 ### 👨🏻‍💻 &nbsp;About Me
 
--  I like working in machine learning, deep learning, and computer vision.
+- 🖥️ I like working in machine learning, deep learning, and computer vision.
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -28,6 +28,7 @@
 - <a href="https://www.linkedin.com/in/modassir-afzal/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 - ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white) **modassir2024@gmail.com** &nbsp; 
 
+### 💼 🖥️ Hacktoberfest2022 Badges
 [![@moddy2024's Holopin board](https://holopin.me/moddy2024)](https://holopin.io/@moddy2024)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Moddy2024&show_icons=true&theme=synthwave&locale=en" alt="Moddy2024" /></p>
