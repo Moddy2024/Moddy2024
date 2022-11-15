@@ -3,7 +3,9 @@
 [![GitHub Moddy2024](https://img.shields.io/github/followers/Moddy2024?label=follow&style=social)](https://github.com/Moddy2024)&nbsp;
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🖥️ I like working in machine learning, deep learning, and computer vision.
+- A highly resourceful computer programmer who has obsession with coding and solving problems.
+-  🖥️ I like working in machine learning, deep learning, and computer vision.
+-  All my projects are listed here in this github account.
 
 
 ### 🛠 &nbsp;Tech Stack
