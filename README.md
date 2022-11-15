@@ -10,12 +10,15 @@
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow)&nbsp;
+![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv)&nbsp;
 ![ML/AI](https://img.shields.io/badge/-ML/AI-05122A?)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
+![Matplotlib](https://img.shields.io/badge/Matplotlib-05122A?style=flat&logo=matplotlib)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-%23013243.svg?style=flat&logo=c%2B%2B&logoColor=blue)&nbsp;
+
 
 ### 📫 &nbsp; How to reach me:
 
@@ -23,6 +26,8 @@
 <a href="mailto:modassir2024@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 
 [![@moddy2024's Holopin board](https://holopin.me/moddy2024)](https://holopin.io/@moddy2024)
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Moddy2024&show_icons=true&theme=synthwave&locale=en" alt="Moddy2024" /></p>
 
 <!---
 Moddy2024/Moddy2024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
