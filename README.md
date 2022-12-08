@@ -14,6 +14,7 @@
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow)&nbsp;
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flate&logo=Keras&logoColor=white)&nbsp;
 ![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv)&nbsp;
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)&nbsp;
 ![ML/AI](https://img.shields.io/badge/-ML/AI-05122A?)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
