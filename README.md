@@ -27,7 +27,7 @@
 
 
 ### 📫 &nbsp; How to reach me:
-
+- <a href="https://www.linkedin.com/in/modassir-afzal/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 - ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white) **modassir2024@gmail.com** &nbsp; 
 
 ### 💼 🖥️ Hacktoberfest 2022 Badges
